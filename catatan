@@ -1,0 +1,40 @@
+<!-- Projects Section -->
+    <section id="projects">
+        <div class="projects container">
+            <div class="projects-header">
+                <h1 class="section-title">Recent <span>Projects</span></h1>
+            </div>
+            <div class="all-projects">
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 1</h1>
+                        <h2>CRUD Laravel 9</h2>
+                        <p>Basic Program, Create Read Update and Delete with Laravel 9 and Bootstrap</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./img/ok.png" alt="img">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 2</h1>
+                        <h2>Sistem Penggajian Karyawan dengan CodeIgniter</h2>
+                        <p>Basic Program, Create Read Update and Delete with Laravel 9 and Bootstrap</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./img/yaa.png" alt="img">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 3</h1>
+                        <h2>Sistem Informasi Data Absensi Siswa dengan PHP Native</h2>
+                    </div>
+                    <div class="project-img">
+                        <img src="./img/apa.png" alt="img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Projects Section -->
